@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\ff\ff\bin\Debug\ff.exe.config
+C:\Users\Home\source\repos\ff\ff\bin\Debug\ff.exe
+C:\Users\Home\source\repos\ff\ff\bin\Debug\ff.pdb
+C:\Users\Home\source\repos\ff\ff\obj\Debug\ff.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\ff\ff\obj\Debug\ff.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ff\ff\obj\Debug\ff.exe
+C:\Users\Home\source\repos\ff\ff\obj\Debug\ff.pdb
